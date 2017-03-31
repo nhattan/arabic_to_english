@@ -1,6 +1,6 @@
 # Arabic to English
 
-  For the covenience of executing, all code is in `arabic_to_english.rb`
+  Convert numbers into English
 
 ## Execute
 
@@ -15,4 +15,4 @@
 
 ## Run tests
 
-    $ ruby arabic_to_english_test.rb
+    $ ruby spec/number_in_words_test.rb
